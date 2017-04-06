@@ -16,4 +16,4 @@ export_env_dir $env_dir
 cd $build_dir
 
 head "Run the heroku-build command"
-npm run-script heroku-build
+# npm run-script heroku-build
